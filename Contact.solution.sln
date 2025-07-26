@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactManagementSystem", "ContactManagementSystem\ContactManagementSystem.csproj", "{FF4EA34C-37EF-4C1A-A127-99451C50C8E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{9C0574F5-869D-44A3-8A41-5E2385979931}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF4EA34C-37EF-4C1A-A127-99451C50C8E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF4EA34C-37EF-4C1A-A127-99451C50C8E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF4EA34C-37EF-4C1A-A127-99451C50C8E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF4EA34C-37EF-4C1A-A127-99451C50C8E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C0574F5-869D-44A3-8A41-5E2385979931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C0574F5-869D-44A3-8A41-5E2385979931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C0574F5-869D-44A3-8A41-5E2385979931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C0574F5-869D-44A3-8A41-5E2385979931}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
